@@ -39,6 +39,7 @@ php artisan migrate:install
 ```bash
 php artisan migrate
 ```
+
 7. Crear un enlace simbólico que permite acceder desde la carpeta public, a la carpeta storage para registrar las imagenes.
 ```bash
 php artisan storage:link
